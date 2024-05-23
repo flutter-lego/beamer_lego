@@ -2,7 +2,7 @@
 [![pub package](https://img.shields.io/pub/v/beamer_lego.svg)](https://pub.dartlang.org/packages/beamer_lego)
 
 # beamer_lego
-description here
+Help Applying Beamer in Flutter
 
 ##  Installation
 1. open terminal in the lego project root directory, enter the following command for install cli.
@@ -17,4 +17,4 @@ lego add beamer_lego
 ```
 
 ## Usage
-Usage here
+config routing in `lib/util/config/beamer_lego/_.dart`
