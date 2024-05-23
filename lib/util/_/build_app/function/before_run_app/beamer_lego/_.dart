@@ -6,7 +6,7 @@ import '../../../../../config/beamer_lego/_.dart';
 import '../../../../shared_params/_/material_app.dart';
 import '../../../widget/material_app/_.dart';
 
-@ReadyBeforeRunApp()
+@ReadyBeforeRunApp(index: 1.0)
 Future<void> readyForBeamerLego() async {
   setBeamerPathUrlStrategy();
 
